@@ -97,7 +97,7 @@ for agent in range(10000):
 def FOFALWAYSONFIRE():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "᯾".join(uuid)
-  server = requests.get(f' https://github.com/Aazeen-786/Shakil.py/commit/88001484891183ec209892b9f7c011b386f20292#diff-9c7574f234892dd4f4bae8a46c0701d7de9a6374c88e201d7e2de4cc3d58a941 ').text
+  server = requests.get(f'https://github.com/Aazeen-786/Shakil.py/blob/main/Approvel.tex').text
   
  
 
